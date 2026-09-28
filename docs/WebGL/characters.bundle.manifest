@@ -1,0 +1,56 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.3.2f1
+CRC: 3601779062
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cb315eda732c6554b21a8013dd6b9b94
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a26bb4dc01b83c1fc89f521b2519a75f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 6f9e375446eaccf83e39cae190c78137
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/RemoteCharacters/OpponentModels/Opponent_15.prefab
+- Assets/RemoteCharacters/OpponentModels/Opponent_16.prefab
+- Assets/RemoteCharacters/HeroRuns/HeroModel.prefab
+- Assets/RemoteCharacters/OpponentModels/Opponent_17.prefab
+- Assets/RemoteCharacters/OpponentModels/Opponent_10.prefab
+- Assets/RemoteCharacters/OpponentModels/Opponent_14.prefab
+- Assets/RemoteCharacters/OpponentModels/Opponent_4.prefab
+- Assets/RemoteCharacters/OpponentModels/Opponent_3.prefab
+- Assets/RemoteCharacters/OpponentModels/Opponent_6.prefab
+- Assets/RemoteCharacters/OpponentModels/Opponent_7.prefab
+- Assets/RemoteCharacters/LyraModel.prefab
+- Assets/RemoteCharacters/BonusRacers/Shielder/Model.prefab
+- Assets/RemoteCharacters/BonusRacers/Marmot/Model.prefab
+- Assets/RemoteCharacters/OpponentModels/Opponent_13.prefab
+- Assets/RemoteCharacters/OpponentModels/Opponent_2.prefab
+- Assets/RemoteCharacters/OpponentModels/Opponent_8.prefab
+- Assets/RemoteCharacters/OpponentModels/Opponent_12.prefab
+- Assets/RemoteCharacters/OpponentModels/Opponent_1.prefab
+- Assets/RemoteCharacters/BonusRacers/Hero/Model.prefab
+- Assets/RemoteCharacters/OpponentModels/Opponent_9.prefab
+- Assets/RemoteCharacters/BonusRacers/Cat/Model.prefab
+- Assets/RemoteCharacters/OpponentModels/Opponent_5.prefab
+- Assets/RemoteCharacters/BonusRacers/Emperor/Model.prefab
+- Assets/RemoteCharacters/OpponentModels/Opponent_11.prefab
+Dependencies: []
