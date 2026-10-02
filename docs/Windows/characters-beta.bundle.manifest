@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.3.2f1
+CRC: 2532948108
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cd9e74f4ea294573d65e905ebc87aded
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a26bb4dc01b83c1fc89f521b2519a75f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: ff32dc5309f0b8b3554165c01ff93047
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/RemoteCharacters/HeroRuns/HeroModel.prefab
+- Assets/RemoteCharacters/BonusRacers/Shielder/Model.prefab
+- Assets/RemoteCharacters/BonusRacers/Marmot/Model.prefab
+- Assets/RemoteCharacters/BonusRacers/Hero/Model.prefab
+- Assets/RemoteCharacters/BonusRacers/Cat/Model.prefab
+- Assets/RemoteCharacters/BonusRacers/Emperor/Model.prefab
+Dependencies: []

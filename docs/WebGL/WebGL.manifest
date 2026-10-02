@@ -1,9 +1,15 @@
 ManifestFileVersion: 0
 UnityVersion: 6000.3.2f1
-CRC: 3470999078
+CRC: 1854066317
 HashAppended: 0
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: characters.bundle
+      Name: characters-core.bundle
+      Dependencies: {}
+    Info_1:
+      Name: characters-beta.bundle
+      Dependencies: {}
+    Info_2:
+      Name: characters-vol1.bundle
       Dependencies: {}
