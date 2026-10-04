@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.3.2f1
+CRC: 230027074
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 11da4f5231a40f3a2365247ab6bd9074
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 08e7a365222ca6a6e682d0c0f2a225e8
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/SFX/reward.mp3
+- Assets/SFX/foot3.mp3
+- Assets/SFX/foot1.mp3
+- Assets/SFX/winFeature.mp3
+- Assets/SFX/cheering.mp3
+- Assets/SFX/foot2.mp3
+- Assets/SFX/coinIncrease.mp3
+- Assets/SFX/trainingBtn.mp3
+- Assets/SFX/coinReceive.mp3
+- Assets/SFX/btn.mp3
+Dependencies: []

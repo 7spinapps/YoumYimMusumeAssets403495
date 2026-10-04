@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.3.2f1
+CRC: 2448875825
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 33be62b2da117170b58d33ea40db8307
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: fd010b6b4c4f32a9383f4fcfc08dfb1f
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/BGM/openGacha.mp3
+- Assets/BGM/cm_round1.mp3
+- Assets/BGM/rank.mp3
+- Assets/BGM/selectCharacter.mp3
+- Assets/BGM/prepare.mp3
+- Assets/BGM/cm_round2.mp3
+- Assets/BGM/cm_finals.mp3
+- Assets/BGM/lobby.mp3
+- Assets/BGM/mainmenu.mp3
+- Assets/BGM/ScoutMenu.mp3
+- Assets/BGM/training.mp3
+- Assets/BGM/race.mp3
+Dependencies: []

@@ -1,6 +1,6 @@
 ManifestFileVersion: 0
 UnityVersion: 6000.3.2f1
-CRC: 3056521967
+CRC: 1037869631
 HashAppended: 0
 AssetBundleManifest:
   AssetBundleInfos:
@@ -12,4 +12,10 @@ AssetBundleManifest:
       Dependencies: {}
     Info_2:
       Name: characters-vol1.bundle
+      Dependencies: {}
+    Info_3:
+      Name: audio-bgm.bundle
+      Dependencies: {}
+    Info_4:
+      Name: audio-sfx.bundle
       Dependencies: {}
