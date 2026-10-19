@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.3.2f1
+CRC: 2139693534
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dcf09533a13f01b67ea29248d9fbdd4b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a26bb4dc01b83c1fc89f521b2519a75f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 8a095c12a4d9f5f5f9ebf2c38f51bb5c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/RemoteCharacters/CustomRacers/youmyim-lightning-mage/Model.prefab
+Dependencies: []

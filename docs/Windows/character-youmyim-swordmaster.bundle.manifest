@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.3.2f1
+CRC: 3081433022
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 31cdec4c27a5ff80e68612607d9173a5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a26bb4dc01b83c1fc89f521b2519a75f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a6f58c1cbc5e2decb2e409e8e862cf26
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/RemoteCharacters/CustomRacers/youmyim-swordmaster/Model.prefab
+Dependencies: []

@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.3.2f1
+CRC: 2521070589
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d80f4852371954ff97b27f522c9b2360
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a26bb4dc01b83c1fc89f521b2519a75f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: bfaa00670b700228d9861223a742bbf3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/RemoteCharacters/CustomRacers/youmyim-joker/Model.prefab
+Dependencies: []

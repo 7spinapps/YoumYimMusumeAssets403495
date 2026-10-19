@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.3.2f1
+CRC: 605135896
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 22177af7f01bf06f9db3160b839f91b6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a26bb4dc01b83c1fc89f521b2519a75f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 523d571bc3b98f9ef12817296cd80c0d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/RemoteCharacters/CustomRacers/youmyim-assassin/Model.prefab
+Dependencies: []

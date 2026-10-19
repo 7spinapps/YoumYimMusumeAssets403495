@@ -1,16 +1,16 @@
 ManifestFileVersion: 0
 UnityVersion: 6000.3.2f1
-CRC: 230027074
+CRC: 1291571260
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 11da4f5231a40f3a2365247ab6bd9074
+    Hash: d1bafeaa636e2d9b3260740b4fb947f4
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9a2ca7bdbd1871f7131daf57de908e0c
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 08e7a365222ca6a6e682d0c0f2a225e8
+    Hash: d5ed6fee0e481d52037db7de25848340
 HashAppended: 0
 ClassTypes:
 - Class: 83
@@ -23,8 +23,10 @@ Assets:
 - Assets/SFX/winFeature.mp3
 - Assets/SFX/cheering.mp3
 - Assets/SFX/foot2.mp3
+- Assets/SFX/gate.mp3
 - Assets/SFX/coinIncrease.mp3
 - Assets/SFX/trainingBtn.mp3
+- Assets/SFX/gate_start.wav
 - Assets/SFX/coinReceive.mp3
 - Assets/SFX/btn.mp3
 Dependencies: []

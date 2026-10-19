@@ -1,0 +1,107 @@
+{
+    "version": "V.1.9_191026_183519",
+    "generatedAtUtc": "2026-10-19T11:43:57.3360261Z",
+    "externalAssets": true,
+    "files": [
+        {
+            "file": "WebGL/audio-bgm.bundle",
+            "sha256": "58b5916e0f1da16911eb421d7b1efc787d09dae1559ee4f91e4fb45ab3da0407",
+            "bytes": 54096582
+        },
+        {
+            "file": "WebGL/audio-sfx.bundle",
+            "sha256": "5f4f0001e70f30a68ed414ff2cdf483c6db1e8413e627fff4a43985fbaaa60d1",
+            "bytes": 1022536
+        },
+        {
+            "file": "WebGL/character-youmyim-assassin.bundle",
+            "sha256": "737b998576b4e1c4c23d78eca08b1a998238d101010cc5466e907c13e67cfed6",
+            "bytes": 11814571
+        },
+        {
+            "file": "WebGL/character-youmyim-cleric.bundle",
+            "sha256": "e5b11eae3514b4a8d8b9441b1806d32600cb74605bf507a5bb43ecb907c61ce7",
+            "bytes": 6918859
+        },
+        {
+            "file": "WebGL/character-youmyim-joker.bundle",
+            "sha256": "40f1989d0adfa5bd634f7cb4e004caf5deb71fd86bed63a8337e10fbddd763fc",
+            "bytes": 6248480
+        },
+        {
+            "file": "WebGL/character-youmyim-lightning-mage.bundle",
+            "sha256": "0484f542aece8d8559f6a23002d6b0928f42afa1b4c486364cd604de59385504",
+            "bytes": 5586089
+        },
+        {
+            "file": "WebGL/character-youmyim-swordmaster.bundle",
+            "sha256": "4ff7f2561cce052b3a79870b71685b1302871537f52f28bdae5c6ec5f34335a5",
+            "bytes": 5766600
+        },
+        {
+            "file": "WebGL/characters-beta.bundle",
+            "sha256": "d8d903340d289c91d0f89b84c8a2e1b70769840bcc0ebde48a5e77ecc683747a",
+            "bytes": 35600665
+        },
+        {
+            "file": "WebGL/characters-core.bundle",
+            "sha256": "2c4c5ccb20fd4a07ad6296a66b3d746b5d07300c2699f96f5005a94813a2ea5b",
+            "bytes": 27804454
+        },
+        {
+            "file": "WebGL/characters-vol1.bundle",
+            "sha256": "e53644a9b1dd4563646bcd5c5de83dbc22cd338af5066b43c0f5ad2107633bc1",
+            "bytes": 68330668
+        },
+        {
+            "file": "Windows/audio-bgm.bundle",
+            "sha256": "bb96c6947a236d7940623573c987678b656c97bd42327e496af1708edb9a347e",
+            "bytes": 45245527
+        },
+        {
+            "file": "Windows/audio-sfx.bundle",
+            "sha256": "243945941ca1b247917b1437668b5caa85ff59f6121eaa11483d997f17ab8368",
+            "bytes": 901261
+        },
+        {
+            "file": "Windows/character-youmyim-assassin.bundle",
+            "sha256": "c9658909f7cfa14c1b035d92b0c7e7d1f83175cfd7a54b6921906e83ac612030",
+            "bytes": 11809636
+        },
+        {
+            "file": "Windows/character-youmyim-cleric.bundle",
+            "sha256": "5fa8f901d8d966934515fdf1abf4959e57e1b335484037069c2b6d0169042872",
+            "bytes": 6917382
+        },
+        {
+            "file": "Windows/character-youmyim-joker.bundle",
+            "sha256": "4520972e084efcd683f97004efacdf6bece82a1fb853577843eb87813af853ba",
+            "bytes": 6247083
+        },
+        {
+            "file": "Windows/character-youmyim-lightning-mage.bundle",
+            "sha256": "c52a04f14f3e22258681ac46c90b8beb817641942a11aca9fe7e4a6ae784d72e",
+            "bytes": 5583258
+        },
+        {
+            "file": "Windows/character-youmyim-swordmaster.bundle",
+            "sha256": "34fff77c57eb7b4b6753db3de10ccf05eeccb63834f6faf8fc18fee54c0d0467",
+            "bytes": 5759647
+        },
+        {
+            "file": "Windows/characters-beta.bundle",
+            "sha256": "0b61e4694ef0dc695687e6ebd49773ac6f12172f0fcbf4bea24b80c7756f0104",
+            "bytes": 35554465
+        },
+        {
+            "file": "Windows/characters-core.bundle",
+            "sha256": "bda78dbcfe0bdd0100d2f60fbb925b4812566f6dcc82ae9d526b6b64cc8b1bfb",
+            "bytes": 26842818
+        },
+        {
+            "file": "Windows/characters-vol1.bundle",
+            "sha256": "2bba8d91c635fc631b01b816eb3259b3fc4ec643b6c3f74457c81f7eccb9783a",
+            "bytes": 68331208
+        }
+    ]
+}
